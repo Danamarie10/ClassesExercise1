@@ -1,0 +1,15 @@
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ClassesExercise`.csproj.AssemblyReference.cache
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ClassesExercise`.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ClassesExercise`.AssemblyInfoInputs.cache
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ClassesExercise`.AssemblyInfo.cs
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ClassesExercise`.csproj.CoreCompileInputs.cache
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\bin\Debug\net7.0\ClassesExercise`.exe
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\bin\Debug\net7.0\ClassesExercise`.deps.json
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\bin\Debug\net7.0\ClassesExercise`.runtimeconfig.json
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\bin\Debug\net7.0\ClassesExercise`.dll
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\bin\Debug\net7.0\ClassesExercise`.pdb
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ClassesExercise`.dll
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\refint\ClassesExercise`.dll
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ClassesExercise`.pdb
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ClassesExercise`.genruntimeconfig.cache
+C:\Users\mpatr\OneDrive\Desktop\repos\ClassesExercise1\ClassesExercise`\ClassesExercise`\obj\Debug\net7.0\ref\ClassesExercise`.dll
